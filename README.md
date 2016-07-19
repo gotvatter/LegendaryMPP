@@ -1,2 +1,1 @@
-# LegendaryMPP
-MPP Automation Tests
+System.out.println("MPP");
